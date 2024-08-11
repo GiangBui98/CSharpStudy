@@ -1,0 +1,14 @@
+D:\CSharp\CSharpBasic\CSharpBasic\bin\Debug\net6.0\CSharpBasic.exe
+D:\CSharp\CSharpBasic\CSharpBasic\bin\Debug\net6.0\CSharpBasic.deps.json
+D:\CSharp\CSharpBasic\CSharpBasic\bin\Debug\net6.0\CSharpBasic.runtimeconfig.json
+D:\CSharp\CSharpBasic\CSharpBasic\bin\Debug\net6.0\CSharpBasic.dll
+D:\CSharp\CSharpBasic\CSharpBasic\bin\Debug\net6.0\CSharpBasic.pdb
+D:\CSharp\CSharpBasic\CSharpBasic\obj\Debug\net6.0\CSharpBasic.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\CSharpBasic\CSharpBasic\obj\Debug\net6.0\CSharpBasic.AssemblyInfoInputs.cache
+D:\CSharp\CSharpBasic\CSharpBasic\obj\Debug\net6.0\CSharpBasic.AssemblyInfo.cs
+D:\CSharp\CSharpBasic\CSharpBasic\obj\Debug\net6.0\CSharpBasic.csproj.CoreCompileInputs.cache
+D:\CSharp\CSharpBasic\CSharpBasic\obj\Debug\net6.0\CSharpBasic.dll
+D:\CSharp\CSharpBasic\CSharpBasic\obj\Debug\net6.0\refint\CSharpBasic.dll
+D:\CSharp\CSharpBasic\CSharpBasic\obj\Debug\net6.0\CSharpBasic.pdb
+D:\CSharp\CSharpBasic\CSharpBasic\obj\Debug\net6.0\CSharpBasic.genruntimeconfig.cache
+D:\CSharp\CSharpBasic\CSharpBasic\obj\Debug\net6.0\ref\CSharpBasic.dll
