@@ -21,7 +21,7 @@ namespace CSharpBasic
                 int inputtedValue = int.Parse(Console.ReadLine());
                 valueList[i] = inputtedValue;
             }
-
+                        
             Console.Write("List = [");
             for (int i = 0; i < valueList.Length; i++)
             {

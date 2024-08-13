@@ -35,7 +35,7 @@ namespace Datatype
             }*/
 
             //Exe5 
-            Exe5 exe5 = new Exe5();
+         /*   Exe5 exe5 = new Exe5();
             bool result = exe5.checkPrimeNumber();
             if (result)
             {
@@ -44,7 +44,12 @@ namespace Datatype
             else
             {
                 Console.WriteLine("False");
-            }
+            }*/
+
+            //Exe10
+            Exe10 exe10 = new Exe10();
+            int maxValue = exe10.MaxValue();
+            Console.WriteLine("Max value is: " +  maxValue);
         }
     }
 
