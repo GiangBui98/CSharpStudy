@@ -47,9 +47,14 @@ namespace Datatype
             }*/
 
             //Exe10
-            Exe10 exe10 = new Exe10();
+         /*   Exe10 exe10 = new Exe10();
             int maxValue = exe10.MaxValue();
-            Console.WriteLine("Max value is: " +  maxValue);
+            Console.WriteLine("Max value is: " +  maxValue);*/
+
+            //Ex26
+            Exe6 exe6 = new Exe6();
+            exe6.PlayCardGame();
+
         }
     }
 
