@@ -35,30 +35,38 @@ namespace Datatype
             }*/
 
             //Exe5 
-         /*   Exe5 exe5 = new Exe5();
-            bool result = exe5.checkPrimeNumber();
-            if (result)
-            {
-                Console.WriteLine("True");
-            }
-            else
-            {
-                Console.WriteLine("False");
-            }*/
+            /*   Exe5 exe5 = new Exe5();
+               bool result = exe5.checkPrimeNumber();
+               if (result)
+               {
+                   Console.WriteLine("True");
+               }
+               else
+               {
+                   Console.WriteLine("False");
+               }*/
 
             //Exe10
-         /*   Exe10 exe10 = new Exe10();
-            int maxValue = exe10.MaxValue();
-            Console.WriteLine("Max value is: " +  maxValue);*/
+            /*   Exe10 exe10 = new Exe10();
+               int maxValue = exe10.MaxValue();
+               Console.WriteLine("Max value is: " +  maxValue);*/
 
             //Ex6
-           /* Exe6 exe6 = new Exe6();
-            exe6.PlayCardGame();*/
+            /* Exe6 exe6 = new Exe6();
+             exe6.PlayCardGame();*/
 
             //Exe7
-            Exe7 exe7 = new Exe7();
-            exe7.RefineString();
+            /*Exe7 exe7 = new Exe7();
+            exe7.RefineString(); */
 
+            //Section1
+
+            Section1 section1 = new Section1();
+            section1.Section1Coding();
+
+            /* Car toyota = new Car("Morning");
+             toyota.Print();
+ */
 
         }
     }
